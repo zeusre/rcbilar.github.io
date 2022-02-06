@@ -1,0 +1,4 @@
+baseURL = 'https://rcbilar.github.io/'
+languageCode = 'no-no'
+title = 'RC Bilar'
+theme = 'personal'
